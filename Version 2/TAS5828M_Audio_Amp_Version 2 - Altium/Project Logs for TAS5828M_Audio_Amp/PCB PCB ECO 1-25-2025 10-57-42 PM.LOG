@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=L1 Old Footprint=BMRF00101040100MA1 New Footprint=PSPMAA1040-100M-ANP
+Change Component Footprint: Designator=L2 Old Footprint=BMRF00101040100MA1 New Footprint=PSPMAA1040-100M-ANP
+Change Component Footprint: Designator=L3 Old Footprint=BMRF00101040100MA1 New Footprint=PSPMAA1040-100M-ANP
+Change Component Footprint: Designator=L4 Old Footprint=BMRF00101040100MA1 New Footprint=PSPMAA1040-100M-ANP
+Change component parameters: Designator = "L1" ("L1"); Footprint = "BMRF00101040100MA1"; UniqueID = "\GMAFMGGF" ("\GMAFMGGF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_PROD-Tech-PSPMAA1040-100M-ANP_C2983105.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2983105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PROD Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PSPMAA1040-100M-ANP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,10.3x10.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "BMRF00101040100MA1"; UniqueID = "\FTYKBISF" ("\FTYKBISF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_PROD-Tech-PSPMAA1040-100M-ANP_C2983105.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2983105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PROD Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PSPMAA1040-100M-ANP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,10.3x10.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "BMRF00101040100MA1"; UniqueID = "\ENWXBXJF" ("\ENWXBXJF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_PROD-Tech-PSPMAA1040-100M-ANP_C2983105.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2983105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PROD Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PSPMAA1040-100M-ANP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,10.3x10.5mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "BMRF00101040100MA1"; UniqueID = "\BJKNCKON" ("\BJKNCKON")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_PROD-Tech-PSPMAA1040-100M-ANP_C2983105.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2983105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PROD Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PSPMAA1040-100M-ANP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,10.3x10.5mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C3 470uF
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

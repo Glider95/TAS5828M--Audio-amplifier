@@ -1,0 +1,19 @@
+Added Component: Designator=J3(PZ254-1-10-Z-8.5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_HCTL-PZ254-1-10-Z-8-5_C2894933.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2894933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PZ254-1-10-Z-8.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=2.54mmPlugin,P=2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DVDD Pin=J3-1
+Added Pin To Net: NetName=SDA Pin=J3-2
+Added Pin To Net: NetName=SCL Pin=J3-3
+Added Pin To Net: NetName=PDN Pin=J3-4
+Added Pin To Net: NetName=GPIO2 Pin=J3-5
+Added Pin To Net: NetName=GPIO1 Pin=J3-6
+Added Pin To Net: NetName=GPIO0 Pin=J3-7
+Added Pin To Net: NetName=SDIN Pin=J3-8
+Added Pin To Net: NetName=BCLK Pin=J3-9
+Added Pin To Net: NetName=LRCLK Pin=J3-10
+Added Member To Class: ClassName=Sheet1 Member=Component J3 PZ254-1-10-Z-8.5

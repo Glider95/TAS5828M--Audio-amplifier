@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=C4 Old Footprint=Cap-0805 New Footprint=CAP-2220
+Change Component Footprint: Designator=C5 Old Footprint=Cap-0805 New Footprint=CAP-2220
+Change Component Footprint: Designator=C7 Old Footprint=Cap-0805 New Footprint=CAP-2220
+Change Component Footprint: Designator=C8 Old Footprint=Cap-0805 New Footprint=CAP-2220
+Change Component Comment : Designator=C4 Old Comment=10uF New Comment=22uF
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=22uF
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=22uF
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=22uF
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Cap-0805"; UniqueID = "\LUDEKFYQ" ("\LUDEKFYQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FS55X226K500EHG_C784103.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C784103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FS55X226K500EHG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Cap-0805"; UniqueID = "\NFRQUEKP" ("\NFRQUEKP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FS55X226K500EHG_C784103.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C784103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FS55X226K500EHG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Cap-0805"; UniqueID = "\RAACJXHU" ("\RAACJXHU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FS55X226K500EHG_C784103.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C784103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FS55X226K500EHG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Cap-0805"; UniqueID = "\XANVZSWH" ("\XANVZSWH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_PSA-Prosperity-Dielectrics-FS55X226K500EHG_C784103.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C784103"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PSA(Prosperity Dielectrics)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FS55X226K500EHG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2220"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=LRCLK Pin=J3-1
+Removed Pin From Net: NetName=BCLK Pin=J3-2
+Removed Pin From Net: NetName=SDIN Pin=J3-3
+Removed Pin From Net: NetName=GPIO0 Pin=J3-4
+Removed Pin From Net: NetName=GPIO1 Pin=J3-5
+Removed Pin From Net: NetName=GPIO2 Pin=J3-6
+Removed Pin From Net: NetName=PDN Pin=J3-7
+Removed Pin From Net: NetName=SCL Pin=J3-8
+Removed Pin From Net: NetName=SDA Pin=J3-9
+Removed Pin From Net: NetName=DVDD Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-3
+Change Component Footprint: Designator=J4 Old Footprint=HDR1X3_ New Footprint=1715721
+Change Comment: Unknown Component : J3
+Change Component Comment : Designator=J4 Old Comment=X6511WV-03H-C60D30 New Comment=1715721
+Change component parameters: Component "J3" not found
+Change component parameters: Designator = "J4" ("J4"); Footprint = "HDR1X3_"; UniqueID = "\NNYGTZCR" ("\NNYGTZCR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1120/1697161-1120393.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1120/1697161-1120393.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/832/1715721-832095.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/832/1715721-832095.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-212174-15169929.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-212174-15169929.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/16046/1715721-16046034.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/16046/1715721-16046034.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1715721"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.94 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "13160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "277-1263-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Room: Name=Sheet1

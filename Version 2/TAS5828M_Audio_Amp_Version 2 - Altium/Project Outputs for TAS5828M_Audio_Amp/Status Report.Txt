@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [TAS5828M_Audio_Amp.PrjPcb]
+   Generated File[Pick Place for PCB.txt]
+   Generated File[Pick Place for PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:51:08 PM On 1/30/2025
